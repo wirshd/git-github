@@ -1,2 +1,2 @@
-# git-github
-wkwkwk
+# git-git training
+For training purpose
